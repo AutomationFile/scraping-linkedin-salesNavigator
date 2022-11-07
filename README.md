@@ -1,5 +1,5 @@
 # Linkedin_SalesNav_Scrap.py
-Scraping data from sales navigator and putting it in a csv file.
+Scraping data from sales navigator.
 
 # Linkedin_Job_Scraper.py 
 
