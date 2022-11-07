@@ -12,3 +12,4 @@ Scraping job offers data from linkedin and putting it in a csv file.
     * Beautiful soup
     * Time ( it is inbuilt library )
     * requests 
+    * Download ChromeDriver : https://chromedriver.chromium.org/
